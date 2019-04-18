@@ -1,6 +1,6 @@
 # BASE
 [![](https://jitpack.io/v/whatsltd4us/baseapp.svg)](https://jitpack.io/#whatsltd4us/baseapp)\
-Base using mvvm pattern using android data binding
+Base using mvvm pattern with android data binding
 
 ---
 # Install

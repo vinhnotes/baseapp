@@ -1,16 +1,15 @@
 package com.vtu.baseapp.views;
 
 import android.os.Bundle;
-import android.support.annotation.NonNull;
-import android.support.annotation.Nullable;
-import android.support.v7.widget.DefaultItemAnimator;
-import android.support.v7.widget.StaggeredGridLayoutManager;
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.recyclerview.widget.DefaultItemAnimator;
+import androidx.recyclerview.widget.StaggeredGridLayoutManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
 import com.jcodecraeer.xrecyclerview.XRecyclerView;
-import com.vtu.baseapp.R;
 import com.vtu.baseapp.common.GridSpacingItemDecoration;
 import com.vtu.baseapp.common.Utilities;
 import com.vtu.baseapp.viewmodels.BaseRecycleViewViewModel;

@@ -1,7 +1,7 @@
 package com.vtu.baseapp.models;
 
 import android.content.Context;
-import android.databinding.BaseObservable;
+import androidx.databinding.BaseObservable;
 import android.view.View;
 
 import java.io.Serializable;

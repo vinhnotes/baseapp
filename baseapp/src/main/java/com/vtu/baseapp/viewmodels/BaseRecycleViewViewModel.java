@@ -1,8 +1,8 @@
 package com.vtu.baseapp.viewmodels;
 
 import android.content.Context;
-import android.databinding.BindingAdapter;
-import android.support.v7.widget.RecyclerView;
+import androidx.databinding.BindingAdapter;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.vtu.baseapp.adapter.BaseAdapter;
 import com.vtu.baseapp.common.Callback;

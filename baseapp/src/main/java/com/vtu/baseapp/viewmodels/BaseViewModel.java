@@ -1,12 +1,12 @@
 package com.vtu.baseapp.viewmodels;
 
-import android.arch.lifecycle.ViewModel;
+import androidx.lifecycle.ViewModel;
 import android.content.Context;
-import android.databinding.Bindable;
-import android.databinding.BindingAdapter;
-import android.databinding.Observable;
-import android.databinding.PropertyChangeRegistry;
-import android.support.annotation.NonNull;
+import androidx.databinding.Bindable;
+import androidx.databinding.BindingAdapter;
+import androidx.databinding.Observable;
+import androidx.databinding.PropertyChangeRegistry;
+import androidx.annotation.NonNull;
 import android.view.View;
 
 import com.vtu.baseapp.common.Callback;

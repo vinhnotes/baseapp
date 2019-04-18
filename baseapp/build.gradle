@@ -5,8 +5,6 @@ group='com.vtu.baseapp'
 android {
     compileSdkVersion 28
 
-
-
     defaultConfig {
         minSdkVersion 22
         targetSdkVersion 28
